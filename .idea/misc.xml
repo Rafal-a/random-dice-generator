@@ -4,10 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/phoneApps/RandomDiceGenerator/app/src/main/res/drawable/background_shape.xml" value="0.2703125" />
+        <entry key="..\:/phoneApps/RandomDiceGenerator/app/src/main/res/drawable/button_shape.xml" value="0.2703125" />
         <entry key="..\:/phoneApps/RandomDiceGenerator/app/src/main/res/drawable/ic_dice_1.xml" value="0.2703125" />
         <entry key="..\:/phoneApps/RandomDiceGenerator/app/src/main/res/drawable/ic_dice_4.xml" value="0.2703125" />
         <entry key="..\:/phoneApps/RandomDiceGenerator/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/phoneApps/RandomDiceGenerator/app/src/main/res/layout/fragment_roll_dice.xml" value="0.25416666666666665" />
+        <entry key="..\:/phoneApps/RandomDiceGenerator/app/src/main/res/layout/fragment_roll_dice.xml" value="0.4" />
       </map>
     </option>
   </component>
