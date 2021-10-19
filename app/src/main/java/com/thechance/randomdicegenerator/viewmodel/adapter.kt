@@ -5,7 +5,7 @@ import androidx.databinding.BindingAdapter
 import com.thechance.randomdicegenerator.R
 
 @BindingAdapter(value = ["diceRoll"])
-fun changeSomething(view: View,value:Int){
+fun changeValue(view: View,value:Int){
     when(value){
         1 -> view.setBackgroundResource(R.drawable.ic_dice_1)
         2 -> view.setBackgroundResource(R.drawable.ic_dice_2)
