@@ -11,9 +11,6 @@ class MainViewModel:ViewModel() {
     private val _diceNumber = MutableLiveData<Int>()
     val diceNumber :LiveData<Int>
         get() = _diceNumber
-    private val _historyRolls = MutableLiveData<String>()
-    val historyRolls :LiveData<String>
-        get() = _historyRolls
 
 
     fun getRollDiceNumber(){

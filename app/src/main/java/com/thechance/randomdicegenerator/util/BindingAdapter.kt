@@ -1,4 +1,4 @@
-package com.thechance.randomdicegenerator.viewmodel
+package com.thechance.randomdicegenerator.util
 
 import android.view.View
 import androidx.databinding.BindingAdapter
